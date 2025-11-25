@@ -1,0 +1,3 @@
+#MindMapExport FreeplaneVersion:
+
+1 1.1 브라우저 기반 SPA(React/Vue 등) 구조
